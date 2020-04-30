@@ -1,0 +1,1 @@
+export const SINGLE_UPLOAD_URL = 'http://120.78.207.225:8111/file/upload';
